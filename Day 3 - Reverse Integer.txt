@@ -1,0 +1,29 @@
+import java.util.*;
+
+class Solution {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+
+        int ans = reverse(x);  // Calling the static method reverse
+        System.out.println(ans);
+    }
+
+    // Make the reverse method static so it can be called from the static main method
+    public static int reverse(int x) {
+        long revx = 0;
+        int max = Integer.MAX_VALUE;
+        int min = Integer.MIN_VALUE;
+
+        while (x != 0) {
+            revx = revx * 10 + x % 10;
+            x = x / 10;
+        }
+
+        if (revx < min || revx > max) {
+            return 0;
+        }
+
+        return (int) revx;
+    }
+}
