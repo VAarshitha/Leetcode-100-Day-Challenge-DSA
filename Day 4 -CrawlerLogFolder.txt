@@ -1,0 +1,35 @@
+import java.util.*;
+
+class Solution {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        // Read the entire line of input and split it into an array of strings
+        String input = sc.nextLine();
+        String[] logs = input.split(" "); // Assuming logs are space-separated
+
+        int ans = minOperations(logs);
+        System.out.println(ans);
+        
+        sc.close(); // Close the scanner to avoid resource leaks
+    }
+
+    public static int minOperations(String[] logs) {
+        int depth = 0;
+        int n = logs.length;
+
+        for (int i = 0; i < n; i++) {
+            if (logs[i].equals("./")) {
+                continue; // Stay in the same directory
+            } else if (logs[i].equals("../")) {
+                depth--; // Move up one directory
+                if (depth < 0) {
+                    depth = 0; // Prevent going below the root
+                }
+            } else {
+                depth++; // Move into a directory
+            }
+        }
+        return depth;
+    }
+}
