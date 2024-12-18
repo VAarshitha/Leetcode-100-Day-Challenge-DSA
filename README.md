@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0097-interleaving-string) |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
+| [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
