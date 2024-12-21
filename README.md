@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
+| [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
