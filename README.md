@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
+| [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
+| [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
