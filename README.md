@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0087-scramble-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0097-interleaving-string) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
