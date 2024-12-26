@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
+| [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0056-merge-intervals) |
+| [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0067-add-binary) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
