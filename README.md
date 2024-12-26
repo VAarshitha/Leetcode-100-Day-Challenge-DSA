@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0056-merge-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
