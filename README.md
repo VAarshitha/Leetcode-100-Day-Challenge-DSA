@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0091-decode-ways) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
 ## String Matching
 |  |
