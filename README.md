@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0097-interleaving-string) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
