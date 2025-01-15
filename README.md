@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0091-decode-ways) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0334-increasing-triplet-subsequence) |
 ## Monotonic Stack
