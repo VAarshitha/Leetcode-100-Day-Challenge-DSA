@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0038-count-and-say) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
