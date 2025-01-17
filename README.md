@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
 ## Array
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
