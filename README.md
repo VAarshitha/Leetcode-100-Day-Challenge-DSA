@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0205-isomorphic-strings) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0217-contains-duplicate) |
@@ -180,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
