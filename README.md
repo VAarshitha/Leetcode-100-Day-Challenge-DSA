@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
 ## Two Pointers
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
 ## Backtracking
 |  |
