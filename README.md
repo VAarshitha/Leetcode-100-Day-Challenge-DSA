@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0049-group-anagrams) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
