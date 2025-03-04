@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0229-majority-element-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0342-power-of-four) |
