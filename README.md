@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0205-isomorphic-strings) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0143-reorder-list) |
 ## Sorting
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0143-reorder-list) |
 ## Binary Search
