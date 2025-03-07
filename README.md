@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0229-majority-element-ii) |
