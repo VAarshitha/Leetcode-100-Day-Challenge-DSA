@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
+| [0860-design-circular-queue](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0860-design-circular-queue) |
 | [1876-map-of-highest-peak](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1876-map-of-highest-peak) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0143-reorder-list) |
+| [0860-design-circular-queue](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -216,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1876-map-of-highest-peak) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
