@@ -11,6 +11,7 @@ int right = nums.length - 1;
                 left = mid + 1;
             }
         }
+        
 
         return right;        
     }
