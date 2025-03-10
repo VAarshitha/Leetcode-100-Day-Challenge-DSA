@@ -12,6 +12,6 @@ int right = nums.length - 1;
             }
         }
 
-        return left;        
+        return right;        
     }
 }
