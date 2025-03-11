@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
+| [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1876-map-of-highest-peak](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1876-map-of-highest-peak) |
+| [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0941-sort-array-by-parity](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
