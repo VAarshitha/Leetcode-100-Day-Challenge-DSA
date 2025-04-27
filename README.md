@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1876-map-of-highest-peak) |
 | [2048-build-array-from-permutation](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2058-concatenation-of-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1876-map-of-highest-peak) |
 ## Breadth-First Search
 |  |
