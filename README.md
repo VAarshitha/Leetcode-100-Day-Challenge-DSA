@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1876-map-of-highest-peak](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1876-map-of-highest-peak) |
 | [2048-build-array-from-permutation](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2058-concatenation-of-array) |
 ## Bucket Sort
 |  |
 | ------- |
