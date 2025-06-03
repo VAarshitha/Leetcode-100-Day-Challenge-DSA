@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0412-fizz-buzz) |
 | [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2058-concatenation-of-array) |
 ## Bucket Sort
