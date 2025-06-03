@@ -1,32 +1,15 @@
-import java.util.*;
-
-public class Solution {
-    // Method to calculate the maximum profit
+class Solution {
     public int maxProfit(int[] prices) {
-        int minPrice = Integer.MAX_VALUE;
-        int maxProfit = 0;
-
-        for (int price : prices) {
-            if (price < minPrice) {
-                minPrice = price;
-            } else {
-                maxProfit = Math.max(maxProfit, price - minPrice);
+        int profit=0;
+        int min=prices[0];
+        for(int i=0;i<prices.length;i++){
+            if(prices[i]<min){
+                min=prices[i];
+            }else{
+      profit= Math.max(profit,prices[i]-min);
             }
         }
-
-        return maxProfit;
-    }
-
-    // Main method to run the program
-    public static void main(String[] args) {
-        // Example input
-        int[] prices = {7, 1, 5, 3, 6, 4};
-
-        // Create an instance of Solution and call the method
-        Solution solution = new Solution();
-        int result = solution.maxProfit(prices);
-
-        // Print the result
-        System.out.println("Maximum Profit: " + result);
-    }
+    return profit;
+        }
+    
 }
