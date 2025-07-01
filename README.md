@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0412-fizz-buzz) |
+| [0523-continuous-subarray-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0523-continuous-subarray-sum) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Stack
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
+| [0523-continuous-subarray-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0523-continuous-subarray-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
 | [0792-binary-search](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0860-design-circular-queue) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
 | [1603-running-sum-of-1d-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Backtracking
