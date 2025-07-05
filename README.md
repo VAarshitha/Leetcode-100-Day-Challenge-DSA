@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Rolling Hash
 |  |
 | ------- |
