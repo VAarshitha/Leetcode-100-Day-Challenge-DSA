@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0941-sort-array-by-parity) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0643-maximum-average-subarray-i](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Rolling Hash
 |  |
 | ------- |
