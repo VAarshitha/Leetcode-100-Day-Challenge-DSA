@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0414-third-maximum-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
