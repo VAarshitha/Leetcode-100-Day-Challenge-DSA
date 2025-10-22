@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1603-running-sum-of-1d-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0941-sort-array-by-parity](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0941-sort-array-by-parity) |
+| [1019-squares-of-a-sorted-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
