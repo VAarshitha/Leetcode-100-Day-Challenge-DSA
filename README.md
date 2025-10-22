@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0238-product-of-array-except-self) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0344-reverse-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0792-binary-search) |
