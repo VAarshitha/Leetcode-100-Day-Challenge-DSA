@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0032-longest-valid-parentheses) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0049-group-anagrams) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0643-maximum-average-subarray-i) |
