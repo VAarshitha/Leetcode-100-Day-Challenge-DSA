@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0525-contiguous-array) |
+| [0940-fruit-into-baskets](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0940-fruit-into-baskets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2502-sort-the-people](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/2502-sort-the-people) |
 ## Array
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0860-design-circular-queue) |
+| [0940-fruit-into-baskets](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/0940-fruit-into-baskets) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VAarshitha/Leetcode-100-Day-Challenge-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Rolling Hash
 |  |
